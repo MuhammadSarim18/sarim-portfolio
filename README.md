@@ -22,3 +22,8 @@ https://muhammadsarim.netlify.app
 - Showcases projects, skills, and contact information.
 - Built using HTML, CSS, and JavaScript.
 
+
+## Screenshots
+
+![App Screenshot](https://f005.backblazeb2.com/file/github-banner-gif/home+page+desktop.png)
+
